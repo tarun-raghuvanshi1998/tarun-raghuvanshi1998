@@ -1,7 +1,7 @@
-- [![MasterHead](https://www.cio.com/wp-content/uploads/2023/05/big_data_analytics_thinkstock_470971869-100439197-orig-4.jpg?quality=50&strip=all)
+- [![MasterHead](https://www.durham.ac.uk/media/durham-university/study/individual-course-and-cta-images/G5P223.png)
 <h1 align="center">Hi 👋, I'm Tarun Raghuvanshi</h1>
 <h3 align="center">A passionate Data Science from India</h3>
-<img align="right" alt="Coding" width="400" src="https://c8.alamy.com/comp/2E42J4G/data-science-inscription-against-laptop-and-code-background-learn-data-science-computer-courses-training-2E42J4G.jpg">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*hDilZZSL-GIQFDFyf_Nb9g.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarun-raghuvanshi1998&label=Profile%20views&color=0e75b6&style=flat" alt="tarun-raghuvanshi1998" /> </p>
 
