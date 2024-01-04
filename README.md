@@ -1,12 +1,7 @@
-- 👋 Hi, I’m tarun raghuvanshi
-- 👀 I’m interested in Learn Coding 
-- 🌱 I’m currently learning Data Science
-- 📫 How to reach me By Email tarunraghuvanshi1999@gmail.com OR NUMBER:8115355534
-
-- [![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+- [![MasterHead](https://www.cio.com/wp-content/uploads/2023/05/big_data_analytics_thinkstock_470971869-100439197-orig-4.jpg?quality=50&strip=all)
 <h1 align="center">Hi 👋, I'm Tarun Raghuvanshi</h1>
 <h3 align="center">A passionate Data Science from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="400" src="https://c8.alamy.com/comp/2E42J4G/data-science-inscription-against-laptop-and-code-background-learn-data-science-computer-courses-training-2E42J4G.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarun-raghuvanshi1998&label=Profile%20views&color=0e75b6&style=flat" alt="tarun-raghuvanshi1998" /> </p>
 
