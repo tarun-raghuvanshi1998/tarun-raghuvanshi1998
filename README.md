@@ -1,7 +1,7 @@
-- [![MasterHead](https://www.durham.ac.uk/media/durham-university/study/individual-course-and-cta-images/G5P223.png)
+- [![MasterHead](https://indusuni.ac.in/uploads/blogs/iite/Understanding%20the%20Hype%20Around%20Machine%20Learning.gif)
 <h1 align="center">Hi 👋, I'm Tarun Raghuvanshi</h1>
 <h3 align="center">A passionate Data Science from India</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*hDilZZSL-GIQFDFyf_Nb9g.png">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarun-raghuvanshi1998&label=Profile%20views&color=0e75b6&style=flat" alt="tarun-raghuvanshi1998" /> </p>
 
